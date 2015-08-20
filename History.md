@@ -1,4 +1,9 @@
 
+0.7.0 / 2015-08-19
+==================
+
+  * Implement @deltamualpha's fix for duplicates appearing in collections after refresh. See [https://github.com/segmentio/metalsmith-collections/issues/27](issue #27).
+  
 0.7.0 / 2015-02-07
 ==================
 
